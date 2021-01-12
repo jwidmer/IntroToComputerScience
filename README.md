@@ -53,6 +53,11 @@ Since this repository is private you will need to add me as a collaborator so I 
     ![GitHub Repository Pending Invite](/images/github-pending-invite.png)
 
 
+## Git
+
+1. Download and Install Git from https://git-scm.com/download.
+
+
 ## Visual Studio Code
 
 1. Download and Install Visual Studio Code from https://code.visualstudio.com/.

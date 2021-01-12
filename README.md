@@ -14,7 +14,9 @@
 ## Create a Repository
 
 1. From the upper-right click on the plus and choose *New Repository*
+
     ![Github Add Repository](/images/github-new-repository.png)
+    
 2. Enter the following:
     * A repository name - something like *IntroToCs*.
     * Choose *Private*

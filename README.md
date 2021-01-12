@@ -107,6 +107,16 @@ Since this repository is private you will need to add me as a collaborator so I 
 
    ![VSCode Commit](/images/vscode-commit.png)
 
+1. NOTE: You may get an error at this point where you need to set your Git email and name.  To do this, open Terminal and paste and run the following commands (putting in your own email and name). And then repeat the prior set to commit your changes.
+
+    `git config --global user.email "youremail@gmail.com"`
+
+    `git config --global user.name "your name"`
+
+    ![VSCode terminal](/images/vscode-terminal-git-config-email.png)
+
+    ![VSCode terminal](/images/vscode-terminal-git-config-name.png)
+
 
 1. Finally push the changes up to your repository by clicking the menu button in the source control toolbar '...' and then selecting push. 
 
@@ -115,7 +125,7 @@ Since this repository is private you will need to add me as a collaborator so I 
 
 1. To confirm your changes are now on your repository, visit your repository at github.com to see that the change is there.
 
-   ![VSCode First Commit](/images/vscode-my-first-commit.png)
+        ![VSCode First Commit](/images/vscode-my-first-commit.png)
 
 
 ### *Continue with this week's homework assignment to learn more about Markdown formatting and making changes to your repository.*

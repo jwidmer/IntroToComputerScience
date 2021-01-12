@@ -1,6 +1,6 @@
 # Intro to Computer Science
 
-Follow the steps below to create your GitHub account and download and install VS Code.
+Follow the steps below to create your GitHub account and first respository, download and install VS Code, and make your first commit into your repository.
 
 ## Create a GitHub account
 

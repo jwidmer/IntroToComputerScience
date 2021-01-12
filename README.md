@@ -16,7 +16,7 @@
 1. From the upper-right click on the plus and choose *New Repository*
 
     ![Github Add Repository](/images/github-new-repository.png)
-    
+
 2. Enter the following:
     * A repository name - something like *IntroToCs*.
     * Choose *Private*
@@ -51,3 +51,21 @@ Since this repository is private you will need to add me as a collaborator so I 
     ![Github Repository Pending Invite](/images/github-pending-invite.png)
 
 
+## Visual Studio Code
+
+1. Download and Install Visual Studio Code from https://code.visualstudio.com/.
+
+
+## Clone your repository
+1. Click on the Explorer button in the left hand tool bar or use the Ctrl+Shift+E hotkey to open the Explorer window.
+2. Click the *Clone Repository* button.
+
+    ![VSCode Clone Repo](/images/vscode-clone-repo.png)
+
+3. Enter the url to the repository that you just created.  It will be something like `https://github.com/[USERNAME]/IntroToCs`
+
+    ![VSCode Clone from Github](/images/vscode-clone-from-github.png)
+
+4. Select a folder to clone the Github repo into locally.
+
+5. Open this folder from within VS Code.

@@ -70,18 +70,19 @@ Since this repository is private you will need to add me as a collaborator so I 
     ![VSCode Clone from GitHub](/images/vscode-clone-from-github.png)
 
 1. Select a folder to clone the GitHub repo locally.
+1. Browse to the folder on your computer to confirm you see the files on your computer (and to associate that this folder on your computer matches the GitHub Repository).
 
 
 
 ## Your first commit
 
 1. Open Visual Studio Code.
-1. On the left side tool bar are icons for the Explorer and for Source Control (or GitHub).
+1. On the VSCode left side tool bar there are icons for the Explorer and for Source Control (or GitHub).
 
     ![VSCode Open Explorer](/images/vscode-toolbar.png)
 
 1. Click the Explorer icon to open to show your files in your repository that you just cloned.
-    * If you do not have a folder open, then click the *Open Folder* button and select the folder where you cloned your repository.
+    * If you do not have a folder open, then click the *Open Folder* button and select the folder on yoru computer where you cloned your repository.
 1. In the Explorer panel, click on the README.md file.  The contents will load to the right.  
     * You can see a preview of your page by clicking the Preview button at the top of the README.md.
 
@@ -107,11 +108,11 @@ Since this repository is private you will need to add me as a collaborator so I 
    ![VSCode Push](/images/vscode-push.png)
 
 
-1. And then to confirm your changes are now on your repository, visit your repository at github.com to see that the change is there.
+1. To confirm your changes are now on your repository, visit your repository at github.com to see that the change is there.
 
    ![VSCode First Commit](/images/vscode-my-first-commit.png)
 
 
-### *Continue with this week's homework assignment to learn more about Markdown formatting and making changes to your repository*
+### *Continue with this week's homework assignment to learn more about Markdown formatting and making changes to your repository.*
 
 
